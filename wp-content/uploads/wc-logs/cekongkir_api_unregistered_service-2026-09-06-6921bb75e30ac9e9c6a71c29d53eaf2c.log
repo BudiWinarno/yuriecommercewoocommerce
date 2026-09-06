@@ -1,0 +1,11 @@
+2026-09-06T08:33:45+00:00 INFO {"name":"AnterAja","code":"anteraja","service":"ECO","description":"Anteraja Economy","cost":7100,"etd":"2-4 day","courier":"anteraja","query":null}
+2026-09-06T08:33:45+00:00 INFO {"name":"AnterAja","code":"anteraja","service":"BIG","description":"Anteraja Cargo","cost":51200,"etd":"1-2 day","courier":"anteraja","query":null}
+2026-09-06T08:33:45+00:00 INFO {"name":"AnterAja","code":"anteraja","service":"ICE","description":"Anteraja Frozen","cost":33000,"etd":"0 day","courier":"anteraja","query":null}
+2026-09-06T08:33:45+00:00 INFO {"name":"AnterAja","code":"anteraja","service":"DOK","description":"Anteraja Document","cost":8750,"etd":"1-2 day","courier":"anteraja","query":null}
+2026-09-06T08:33:45+00:00 INFO {"name":"AnterAja","code":"anteraja","service":"MIC","description":"Anteraja Mini Cargo","cost":35000,"etd":"2-4 day","courier":"anteraja","query":null}
+2026-09-06T08:33:45+00:00 INFO {"name":"Jalur Nugraha Ekakurir (JNE)","code":"jne","service":"JTR","description":"JNE Trucking","cost":40000,"etd":"3 day","courier":"jne","query":null}
+2026-09-06T08:33:45+00:00 INFO {"name":"Jalur Nugraha Ekakurir (JNE)","code":"jne","service":"SPS","description":"Super Speed","cost":60000,"etd":"0 day","courier":"jne","query":null}
+2026-09-06T08:33:45+00:00 INFO {"name":"SiCepat Express","code":"sicepat","service":"HALU","description":"Harga Mulai Lima Ribu","cost":7500,"etd":"2-3 day","courier":"sicepat","query":null}
+2026-09-06T08:33:45+00:00 INFO {"name":"Wahana","code":"wahana","service":"NextDay","description":"Layanan Pengiriman Dengan Estimasi Pengiriman 1 Hari Sampai","cost":10000,"etd":"1 day","courier":"wahana","query":null}
+2026-09-06T08:33:45+00:00 INFO {"name":"Wahana","code":"wahana","service":"Express","description":"Layanan Regular Pengiriman Ke Seluruh Wilayah Indonesia","cost":5000,"etd":"2 day","courier":"wahana","query":null}
+2026-09-06T08:33:45+00:00 INFO {"name":"Wahana","code":"wahana","service":"Ekonomis","description":"Layanan Pengiriman Biaya Hemat Dengan Tujuan Sumatera","cost":5000,"etd":"2 day","courier":"wahana","query":null}
